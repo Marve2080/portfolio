@@ -5,7 +5,7 @@ A responsive, single-page portfolio website for Expert, web developer and founde
 
 # Portfolio screenshot
 
-🔗 Live demo: your-username.github.io/your-repo
+🔗 Live demo: https://marve2080.github.io/portfolio/
 
 # Table of Contents
 About the Project\
